@@ -1,7 +1,4 @@
 use std::io;
-// Generate the nth Fibonacci number.
-// fn get_fibonacci_nb(num: u64) -> u64
-// 1, 1, 2, 3, 5, 8, 13, 21 ...
 
 fn get_fibonacci_nb(num: u64) -> u64 {
     let mut previous = 1;
